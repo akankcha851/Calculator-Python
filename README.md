@@ -12,4 +12,4 @@ This is a simple calculator application built using Python and Tkinter.
 - Tkinter (GUI library)
 
 
-
+git add README.md
